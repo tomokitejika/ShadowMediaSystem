@@ -1,0 +1,16 @@
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\CIPC_CS_Unity.dll
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\UDP_PACKETS_CLIANT_Unity.dll
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\UDP_PACKETS_CODER_Unity.dll
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\maho\unity\BoneGenerator\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\maho\unity\BoneGenerator\obj\Debug\UnityVS.BoneGenerator.CSharp.csprojResolveAssemblyReference.cache
+E:\maho\unity\BoneGenerator\obj\Debug\Assembly-CSharp.dll
+E:\maho\unity\BoneGenerator\obj\Debug\Assembly-CSharp.pdb
