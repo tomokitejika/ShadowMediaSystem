@@ -233,3 +233,6 @@ E:\maho\project\kinectv2Test\KI\KinectInterface1.02\KinectInterface\obj\Debug\Ki
 E:\maho\project\kinectv2Test\KI\KinectInterface1.02\KinectInterface\obj\Debug\UDP.UDP_CLIENT_AUT_Window.resources
 E:\maho\project\kinectv2Test\KI\KinectInterface1.02\KinectInterface\obj\Debug\UDP.UDP_CLIENT_Window.resources
 E:\maho\project\kinectv2Test\KI\KinectInterface1.02\KinectInterface\obj\Debug\UDP.UDP_SERVER_Window.resources
+C:\workspace\ShadowMediaSystem\KinectInterface\KinectInterface\bin\Debug\KinectInterface.exe.config
+C:\workspace\ShadowMediaSystem\KinectInterface\KinectInterface\obj\Debug\KinectInterface.exe
+C:\workspace\ShadowMediaSystem\KinectInterface\KinectInterface\obj\Debug\KinectInterface.pdb

@@ -2,29 +2,40 @@ Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Renderer: NVIDIA GeForce GTX 760 Ti OEM (ID=0x1189)
     Vendor:   NVIDIA
     VRAM:     1985 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\CIPC_CS_Unity.dll (this message is harmless)
-Loading E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\CIPC_CS_Unity.dll into Unity Child Domain
-Platform assembly: E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\UDP_PACKETS_CLIANT_Unity.dll (this message is harmless)
-Loading E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\UDP_PACKETS_CLIANT_Unity.dll into Unity Child Domain
-Platform assembly: E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\UDP_PACKETS_CODER_Unity.dll (this message is harmless)
-Loading E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\UDP_PACKETS_CODER_Unity.dll into Unity Child Domain
-- Completed reload, in  0.138 seconds
-desktop: 1280x1024 60Hz; virtual: 3200x1080 at -1920,-56
+Platform assembly: C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\CIPC_CS_Unity.dll (this message is harmless)
+Loading C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\CIPC_CS_Unity.dll into Unity Child Domain
+Platform assembly: C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\UDP_PACKETS_CLIANT_Unity.dll (this message is harmless)
+Loading C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\UDP_PACKETS_CLIANT_Unity.dll into Unity Child Domain
+Platform assembly: C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\UDP_PACKETS_CODER_Unity.dll (this message is harmless)
+Loading C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\UDP_PACKETS_CODER_Unity.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+desktop: 1600x900 60Hz; virtual: 2880x1024 at -1280,0
 <RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-Platform assembly: E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\maho\GitHub\Git\usr\Project\BoneGenerator\BoneGenerator1.02\Maho_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\workspace\ShadowMediaSystem\BoneGenerator1.03\Maho_Data\Managed\System.dll (this message is harmless)
+SocketException: 既存の接続はリモート ホストに強制的に切断されました。
+
+  at System.Net.Sockets.Socket.ReceiveFrom_nochecks_exc (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags, System.Net.EndPoint& remote_end, Boolean throwOnError, System.Int32& error) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.Socket.ReceiveFrom_nochecks (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags, System.Net.EndPoint& remote_end) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Net.EndPoint& remoteEP) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.UdpClient.Receive (System.Net.IPEndPoint& remoteEP) [0x00000] in <filename unknown>:0 
+  at UDP_PACKETS_CLIANT.UDP_PACKETS_CLIANT.Recieve () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2fac -> priority: 1 
-  Thread -> id: 3cfc -> priority: 1 
+  Thread -> id: 618 -> priority: 1 
+  Thread -> id: 257c -> priority: 1 
