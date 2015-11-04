@@ -94,6 +94,7 @@ namespace StreamReaderForKI
                                 writer.Write(Pz);
                                 writer.Write(",");
 
+
                                 var Rx = dec.get_float();
                                 writer.Write(Rx);
                                 writer.Write(",");
