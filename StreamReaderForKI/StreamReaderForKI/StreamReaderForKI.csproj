@@ -44,9 +44,8 @@
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
-    <Reference Include="UDP_PACKETS_CODER, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Users\ShadowGroup\Dropbox\udp_lib\UDP_PACKETS_CODER\UDP_PACKETS_CODER\bin\Release\UDP_PACKETS_CODER.dll</HintPath>
+    <Reference Include="UDP_PACKETS_CODER">
+      <HintPath>..\..\..\..\Users\tomoki tejika\Desktop\workspace\ShadowMediaSystem\StreamReaderForKI\StreamReaderForKI\bin\Debug\UDP_PACKETS_CODER.dll</HintPath>
     </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
