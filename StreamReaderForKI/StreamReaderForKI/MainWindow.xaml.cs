@@ -40,6 +40,7 @@ namespace StreamReaderForKI
                 var size = reader.BaseStream.Length;
                 var writer = new StreamWriter(this.TextBlock_Main.Text.Replace("scd", "csv"));
 
+                
                 if (size < 8)
                 {
                     throw new Exception("ファイルに正常な書き込みが行われていません。");
@@ -120,9 +121,9 @@ namespace StreamReaderForKI
         }
     }
 }
-
-
 /*
+
+
                 if (size < 8)
                 {
                     throw new Exception("ファイルに正常な書き込みが行われていません。");
@@ -225,4 +226,3 @@ namespace StreamReaderForKI
         }
     }
 }
-*/
